@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\e522acc9aece71dea66253c1e63ecf6e66aa2722\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="F:\disc D\oitipu\lab2\paint-android-master\app\build\intermediates\pre-dexed\debug\classes_b258a6f81f913ac88bdfc859b6625610b22b1f69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.0.2\b9cd8fc6bd15cb915735d34535db30ece0c44603\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\disc D\oitipu\lab2\paint-android-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_4cc494d98ce3f13f5f13df721fbb4cf7d93f8a88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\badc1e082471d82a46091bcf831ce16b852f4ba5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="F:\disc D\oitipu\lab2\paint-android-master\app\build\intermediates\pre-dexed\debug\classes_3b652c11c41d5d10ef27cedb5f044bde0cdfb18e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\eb9ecb1283176bf51e287676c492819b8d5cb65b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="F:\disc D\oitipu\lab2\paint-android-master\app\build\intermediates\pre-dexed\debug\classes_f2a50d7ac220b3021c4c008c097d8c2bbc67cfec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\fd22dd20b86a66b5d0de9e8b1caad78bd524fa71\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="F:\disc D\oitipu\lab2\paint-android-master\app\build\intermediates\pre-dexed\debug\classes_dc6960dc3a83b8e38d1b9faebc3d9ed612635608.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\c505e69f7c2c8f8ec90e4bd9b3b8369f75acc58d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\disc D\oitipu\lab2\paint-android-master\app\build\intermediates\pre-dexed\debug\classes_13efa491d7a4391342937b01c0d21797b9ebe15e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\dd1ea947f371ca7089049be6e2dc3562f7bc4a80\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="F:\disc D\oitipu\lab2\paint-android-master\app\build\intermediates\pre-dexed\debug\classes_70dd86a6215ca1cf2c2f011273f1c0c35bf2ca95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="F:\disc D\oitipu\lab2\paint-android-master\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_79d2f3b006ffbe29ac21348972d88fb187331aa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\2f6609234f38069e2f23c07b4bff29527796c0b5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="F:\disc D\oitipu\lab2\paint-android-master\app\build\intermediates\pre-dexed\debug\classes_5feba34e1d9298fe9a47850a38b60198bc463af7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\27d92c05b194372accf3bb88f8642395e4474938\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="F:\disc D\oitipu\lab2\paint-android-master\app\build\intermediates\pre-dexed\debug\classes_2ca2f43025d3d17efc64f49fdf4610510d05a9f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\31577a93b1f62e8b9fffd19461bfa14e9c784a36\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\disc D\oitipu\lab2\paint-android-master\app\build\intermediates\pre-dexed\debug\classes_5943cbbfbc93ea651390ca1961a22ed5fe1788a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\9fe1a3dc043ad0a001b07407cd2d91ca7e658224\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="F:\disc D\oitipu\lab2\paint-android-master\app\build\intermediates\pre-dexed\debug\classes_cc4fbbff1b2f78e379f996bee0ebfc8868fb75dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="F:\disc D\oitipu\lab2\paint-android-master\app\build\intermediates\pre-dexed\debug\common-1.0.0_8550ff7672b657e665a1f3cd0e626a9b007465ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\8c79af06e856d99985bfb7ea53137ac4482d8d48\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="F:\disc D\oitipu\lab2\paint-android-master\app\build\intermediates\pre-dexed\debug\classes_235ac0e892394e31c7f2de26328e1d9da4489fe2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\da8897406491ead018606d35e4eaa897b98dfede\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="F:\disc D\oitipu\lab2\paint-android-master\app\build\intermediates\pre-dexed\debug\classes_0c9e2645fd4489dfd53d705edd14242cf27d25f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\40fa01426f3938c64eedd2f5cfa572fd2aaf4206\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="F:\disc D\oitipu\lab2\paint-android-master\app\build\intermediates\pre-dexed\debug\classes_704e959e0aefd18f318d0b66ef929824dcaee241.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="F:\disc D\oitipu\lab2\paint-android-master\app\build\intermediates\pre-dexed\debug\common-1.0.0_550bdae630f1149ea2e24c4c2a55988816889576.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\5e35ae0798de084e17cbcdec576e111830a1a8bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4a7e5de81275e5a9106097d735f31f94c7f579b">
+        <dex dex="F:\disc D\oitipu\lab2\paint-android-master\app\build\intermediates\pre-dexed\debug\classes_65bdf07400f3e80ab3ff1205ddc8212d89ab6703.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\95298f0b3fdd9e0815cc7fdfaeb40b3290ff994d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="F:\disc D\oitipu\lab2\paint-android-master\app\build\intermediates\pre-dexed\debug\classes_36db39f931eda4d77a7aff21f0eb13f2a4124321.jar" />
+    </item>
+
+</items>
